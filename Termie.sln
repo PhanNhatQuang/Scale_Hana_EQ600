@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termie", "Termie.csproj", "{ABD27080-6E3B-4981-B16A-885E17CA2AF2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HANA_EQ600", "..\HANA_EQ600\HANA_EQ600.vdproj", "{756F119C-F671-4A86-B83A-D33DCCC9167B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD27080-6E3B-4981-B16A-885E17CA2AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD27080-6E3B-4981-B16A-885E17CA2AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD27080-6E3B-4981-B16A-885E17CA2AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD27080-6E3B-4981-B16A-885E17CA2AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756F119C-F671-4A86-B83A-D33DCCC9167B}.Debug|Any CPU.ActiveCfg = Debug
+		{756F119C-F671-4A86-B83A-D33DCCC9167B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF073DD-AF0C-4F81-93B5-6F2DC029865C}
+	EndGlobalSection
+EndGlobal
